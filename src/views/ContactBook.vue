@@ -119,6 +119,7 @@ return this.contacts.filter((_contact, index) =>
     mounted() {
         this.refreshList();
     },
+    
 };
 </script>
 
